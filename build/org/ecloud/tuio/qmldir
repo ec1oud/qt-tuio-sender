@@ -1,0 +1,4 @@
+module org.ecloud.tuio
+plugin tuioplugin
+classname TuioPlugin
+typeinfo plugins.qmltypes
