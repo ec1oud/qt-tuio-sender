@@ -1,3 +1,4 @@
+#!/bin/env qml
 import QtQuick 2.9
 import org.ecloud.tuio 1.0
 

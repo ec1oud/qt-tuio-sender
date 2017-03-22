@@ -43,3 +43,6 @@ progress of getting TUIO 2.0 support into Qt.  It was a chicken/egg problem
 that TUIO 2.0 is still too uncommon to test with, which is one reason for
 this project.
 
+The QML API here is unfinished... it's intended to be less stupid and more
+declarative eventually.
+
