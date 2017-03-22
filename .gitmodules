@@ -1,0 +1,3 @@
+[submodule "TUIO20_CPP"]
+	path = TUIO20_CPP
+	url = git@github.com:mkalten/TUIO20_CPP.git
