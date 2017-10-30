@@ -1,5 +1,5 @@
 QT       += qml quick
-CPPFLAGS += -fexceptions
+CONFIG   += exceptions
 TARGET = build/org/ecloud/tuio/tuioplugin
 TEMPLATE = lib
 
