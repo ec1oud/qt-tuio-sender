@@ -28,7 +28,7 @@ SOURCES += src/plugin.cpp src/tuiosender.cpp $$TUIO_SOURCES
 
 HEADERS += src/tuiosender.h
 
-QMAKE_CXXFLAGS += -std=c++11
+QMAKE_CXXFLAGS += -std=c++17
 
 OTHER_FILES += examples/*.qml org/ecloud/tuio/qmldir
 
