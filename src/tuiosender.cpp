@@ -1,4 +1,5 @@
 #include "tuiosender.h"
+#include <QVector2D>
 
 TuioSender::TuioSender(QObject *parent) : QObject(parent)
 {
